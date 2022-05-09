@@ -30,7 +30,7 @@ go
 INSERT RawData (Region, Category, Amount, SalesDate)
   VALUES( 'South', 'Y',     12, '11/1/2005')
 INSERT RawData (Region, Category, Amount, SalesDate)
-  VALUES( 'South', 'Y',     24, '11/1/2005')
+  VALUES( 'South', 'Y',     24, '11/1/2011')
 INSERT RawData (Region, Category, Amount, SalesDate)
   VALUES( 'South', 'Y',     15, '12/1/2005')
 INSERT RawData (Region, Category, Amount, SalesDate)
